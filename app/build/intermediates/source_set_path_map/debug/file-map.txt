@@ -25,10 +25,10 @@ com.example.YTController.app-appcompat-1.6.1-23 C:\Users\windy\.gradle\caches\8.
 com.example.YTController.app-recyclerview-1.1.0-24 C:\Users\windy\.gradle\caches\8.9\transforms\d3056d6a71bc381b7b1d48cb3eb94393\transformed\recyclerview-1.1.0\res
 com.example.YTController.app-coordinatorlayout-1.1.0-25 C:\Users\windy\.gradle\caches\8.9\transforms\ebb954e0600c9059872de686bf996dc8\transformed\coordinatorlayout-1.1.0\res
 com.example.YTController.app-lifecycle-viewmodel-2.6.1-26 C:\Users\windy\.gradle\caches\8.9\transforms\eec46eb801d6c28cf1cfc6aac9f7162b\transformed\lifecycle-viewmodel-2.6.1\res
-com.example.YTController.app-pngs-27 D:\files\projects\A_battery_overlay\app\build\generated\res\pngs\debug
-com.example.YTController.app-resValues-28 D:\files\projects\A_battery_overlay\app\build\generated\res\resValues\debug
-com.example.YTController.app-packageDebugResources-29 D:\files\projects\A_battery_overlay\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.YTController.app-packageDebugResources-30 D:\files\projects\A_battery_overlay\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.YTController.app-merged_res-31 D:\files\projects\A_battery_overlay\app\build\intermediates\merged_res\debug
-com.example.YTController.app-debug-32 D:\files\projects\A_battery_overlay\app\src\debug\res
-com.example.YTController.app-main-33 D:\files\projects\A_battery_overlay\app\src\main\res
+com.example.YTController.app-pngs-27 D:\files\projects\A_YTC_FO\app\build\generated\res\pngs\debug
+com.example.YTController.app-resValues-28 D:\files\projects\A_YTC_FO\app\build\generated\res\resValues\debug
+com.example.YTController.app-packageDebugResources-29 D:\files\projects\A_YTC_FO\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.YTController.app-packageDebugResources-30 D:\files\projects\A_YTC_FO\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.YTController.app-merged_res-31 D:\files\projects\A_YTC_FO\app\build\intermediates\merged_res\debug
+com.example.YTController.app-debug-32 D:\files\projects\A_YTC_FO\app\src\debug\res
+com.example.YTController.app-main-33 D:\files\projects\A_YTC_FO\app\src\main\res

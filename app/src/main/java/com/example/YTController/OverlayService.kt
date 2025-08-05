@@ -11,6 +11,10 @@ import android.view.KeyEvent
 import android.view.LayoutInflater
 import android.view.WindowManager
 import android.media.AudioManager
+import android.app.Instrumentation
+import android.os.Handler
+import android.os.Looper
+import java.util.concurrent.Executors
 import com.example.YTController.databinding.OverlayLayoutBinding
 
 class OverlayService : Service() {
@@ -54,10 +58,11 @@ class OverlayService : Service() {
         }
 
         binding.rewindButton.setOnClickListener {
-            val keyEvent = KeyEvent(KeyEvent.ACTION_DOWN, KeyEvent.KEYCODE_MEDIA_REWIND)
-            audioManager.dispatchMediaKeyEvent(keyEvent)
-            val keyEventUp = KeyEvent(KeyEvent.ACTION_UP, KeyEvent.KEYCODE_MEDIA_REWIND)
-            audioManager.dispatchMediaKeyEvent(keyEventUp)
+            val executor = Executors.newSingleThreadExecutor()
+            executor.execute {
+                val instrumentation = Instrumentation()
+                instrumentation.sendKeyDownUpSync(KeyEvent.KEYCODE_DPAD_LEFT)
+            }
         }
     }
 
