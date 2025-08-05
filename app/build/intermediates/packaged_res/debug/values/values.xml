@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_service_description">允许YTController模拟触摸操作来控制YouTube播放</string>
     <string name="app_name">YTController</string>
     <string name="charging_icon_desc">YTController</string>
     <string name="tile_label">YTController</string>

@@ -3,4 +3,5 @@
     <string name="app_name">YTController</string>
     <string name="tile_label">YTController</string>
     <string name="charging_icon_desc">YTController</string>
+    <string name="accessibility_service_description">允许YTController模拟触摸操作来控制YouTube播放</string>
 </resources> 

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:2:1-58:12
 MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\windy\.gradle\caches\8.9\transforms\b0780482b970959f86b908280ee650f0\transformed\jetified-viewbinding-8.2.2\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\windy\.gradle\caches\8.9\transforms\7268f33a422de64c23cbb2b9c0e17d20\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\windy\.gradle\caches\8.9\transforms\1611acad0b471b73129293b10ddf84d0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -60,9 +60,25 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:5:5-78
 	android:name
 		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.INJECT_EVENTS
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:7:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:9:22-77
 application
-ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:7:5-40:19
-INJECTED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:7:5-40:19
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:11:5-56:19
+INJECTED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:11:5-56:19
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\windy\.gradle\caches\8.9\transforms\7268f33a422de64c23cbb2b9c0e17d20\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\windy\.gradle\caches\8.9\transforms\7268f33a422de64c23cbb2b9c0e17d20\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\windy\.gradle\caches\8.9\transforms\1611acad0b471b73129293b10ddf84d0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -84,59 +100,79 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\windy\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] C:\Users\windy\.gradle\caches\8.9\transforms\30e57c7fdbac8b254d45b7489d2c0941\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:15:9-41
 	android:roundIcon
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:16:9-54
 	tools:targetApi
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:14:9-29
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:18:9-29
 	android:icon
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:9:9-50
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:13:9-50
 activity#com.example.YTController.MainActivity
-ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:15:9-23:20
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:exported
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:21:13-36
 	android:name
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:16:13-41
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:20:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:25:27-74
 service#com.example.YTController.OverlayService
-ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:25:9-27:40
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:29:9-31:40
 	android:exported
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:27:13-37
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:26:13-43
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:30:13-43
 service#com.example.YTController.QSTileService
-ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:29:9-38:19
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:33:9-42:19
 	android:label
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:32:13-42
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:36:13-42
 	android:exported
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:34:13-36
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:33:13-77
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:37:13-77
 	android:icon
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:31:13-59
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:35:13-59
 	android:name
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:30:13-42
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:34:13-42
 intent-filter#action:name:android.service.quicksettings.action.QS_TILE
-ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:35:13-37:29
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:39:13-41:29
 action#android.service.quicksettings.action.QS_TILE
-ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:36:17-87
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:40:17-87
 	android:name
-		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:36:25-84
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:40:25-84
+service#com.example.YTController.YTAccessibilityService
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:44:9-54:19
+	android:exported
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:47:13-36
+	android:permission
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:46:13-79
+	android:name
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:45:13-51
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:48:13-50:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:49:17-92
+	android:name
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:49:25-89
+meta-data#android.accessibilityservice
+ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:51:13-53:72
+	android:resource
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml:52:17-60
 uses-sdk
 INJECTED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\files\projects\A_YTC_FO\app\src\main\AndroidManifest.xml

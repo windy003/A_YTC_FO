@@ -1,10 +1,14 @@
 [
     {
-        "merged": "com.example.YTController.app-mergeDebugResources-30:/layout/overlay_layout.xml",
-        "source": "com.example.YTController.app-main-33:/layout/overlay_layout.xml"
+        "merged": "C:\\Users\\windy\\.gradle\\daemon\\8.9\\com.example.YTController.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\windy\\.gradle\\daemon\\8.9\\com.example.YTController.app-main-33:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.YTController.app-mergeDebugResources-30:/layout/activity_main.xml",
-        "source": "com.example.YTController.app-main-33:/layout/activity_main.xml"
+        "merged": "C:\\Users\\windy\\.gradle\\daemon\\8.9\\com.example.YTController.app-mergeDebugResources-30:\\layout\\overlay_layout.xml",
+        "source": "C:\\Users\\windy\\.gradle\\daemon\\8.9\\com.example.YTController.app-main-33:\\layout\\overlay_layout.xml"
+    },
+    {
+        "merged": "com.example.YTController.app-mergeDebugResources-30:/layout/overlay_layout.xml",
+        "source": "com.example.YTController.app-main-33:/layout/overlay_layout.xml"
     }
 ]
