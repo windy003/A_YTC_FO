@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_android_black_24dp
+drawable ic_battery_overlay_off
+drawable ic_battery_overlay_on
+drawable ic_charging
+drawable ic_launcher_background
+drawable ic_not_charging
+id grant_permission_button
+id instructions_textview
+id play_pause_button
+id rewind_button
+layout activity_main
+layout overlay_layout
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+string charging_icon_desc
+string tile_label
+style Base.Theme.YTController
+style Theme.YTController
